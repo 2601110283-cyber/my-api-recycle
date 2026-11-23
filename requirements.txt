@@ -1,0 +1,2 @@
+fastapi
+google-genai==2.12.1
